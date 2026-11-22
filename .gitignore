@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Python / Virtualenvs
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.idea/
+.vscode/
+
+# Streamlit secrets
+.streamlit/secrets.toml

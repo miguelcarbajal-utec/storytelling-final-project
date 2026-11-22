@@ -1,0 +1,5 @@
+﻿ID_Franja,Franja_Horaria,Turno_Corto,Orden_Franja
+1,Madrugada (00:00-05:59),Madrugada,1
+2,Mañana (06:00-11:59),Mañana,2
+3,Tarde (12:00-17:59),Tarde,3
+4,Noche (18:00-23:59),Noche,4
